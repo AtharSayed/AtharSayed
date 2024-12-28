@@ -7,10 +7,12 @@
 - 🌍 Based in **Mumbai, India**
 
 ### 🔧 Tech Stack
-- **Languages:** Python, C++, JavaScript
-- **Frameworks:** Flask, TensorFlow, PyTorch
-- **Tools:** Docker, Git, VS Code
-- **Interests:** AI, Robotics, Machine Learning, and Web Development
+- **Languages:** Python, C++, C, Embedded C, Javascript, HTML, CSS 
+- **Frameworks:** Flask, TensorFlow, PyTorch, Gnu 
+- **Tools:** Docker, Git, VS Code, Grafhana, Prometheus, Kuberenetes
+- **Database Management:** MongoDB, PostgreSQL
+- **Testing Tools:** JMeter, Postman  
+- **Interests:** AI, Robotics, Machine Learning, Coding  
 
 ### 📈 GitHub Stats
 ![Athar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical)
