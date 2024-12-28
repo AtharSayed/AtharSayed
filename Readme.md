@@ -12,7 +12,7 @@
 - **Tools:** Docker, Git, VS Code, Grafhana, Prometheus, Kuberenetes
 - **Database Management:** MongoDB, PostgreSQL
 - **Testing Tools:** JMeter, Postman  
-- **Interests:** AI, Robotics, Machine Learning, Coding  
+- **Interests:** AI, Electronics, Machine Learning, Coding  
 
 ### 📈 GitHub Stats
 ![Athar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical)
