@@ -7,10 +7,10 @@
 - 🌍 Based in **Mumbai, India**
 
 ### 🔧 Tech Stack
-- **Languages:** Python, C++, C, Embedded C, Javascript, HTML, CSS 
-- **Frameworks:** Flask, TensorFlow, PyTorch, Gnu 
-- **Tools:** Docker, Git, VS Code, Grafhana, Prometheus, Kuberenetes
-- **Database Management:** MongoDB, PostgreSQL
+- **Languages:** Python, C++, C, Embedded C, HTML, CSS, scala
+- **Frameworks:** Flask, TensorFlow, PyTorch, GNU, Pyspark, Pandas
+- **Tools:** Docker, Git, VS Code, Grafhana, Prometheus, Kubernetes
+- **Database Management:** MongoDB, PostgreSQL, MySQL
 - **Testing Tools:** JMeter, Postman  
 - **Interests:** AI, Electronics, Machine Learning, Coding  
 
