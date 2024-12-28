@@ -1,6 +1,7 @@
-# 👋 Hello, I'm Athar Sayed!
 ### 🚀 Profile Views
 ![Profile Views](https://profile-counter.glitch.me/AtharSayed/count.svg)
+
+# 👋 Hello, I'm Athar Sayed!
 
 ### 👨‍💻 About Me
 - 🎓 **MTech in AI '26** @ MPSTME
