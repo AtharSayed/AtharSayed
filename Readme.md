@@ -28,5 +28,6 @@
 - ⚡ [**HyperFlux**](https://github.com/AtharSayed/HyperFlux): ML models optimized for GPU acceleration.
 
 ### 🌐 Connect with Me
-- 📧 [![Email](https://img.shields.io/badge/Email-sayedathar242%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sayedathar242@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-sayedathar242%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sayedathar242@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athar-sayed-8a6693202)
+
