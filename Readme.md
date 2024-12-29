@@ -1,60 +1,32 @@
-# 🌟 Welcome to My GitHub Profile 🌟
+### 🚀 Profile Views
+![Profile Views](https://profile-counter.glitch.me/AtharSayed/count.svg)
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+Athar%27s+Profile!)
+# 👋 Hello, I'm Athar Sayed!
 
-## 👋 Hello, I’m Athar Sayed!
+### 👨‍💻 About Me
+- 🎓 **MTech in AI '26** @ MPSTME
+- 💼 **Software Engineer** passionate about Electronics & AI
+- 🌟 Committed to leveraging technology for innovative solutions
+- 🌍 Based in **Mumbai, India**
 
-I’m an **MTech in AI @ NMIMS** student and a passionate software engineer focusing on **Electronics & AI**. I’m committed to leveraging technology for innovative solutions.
+### 🔧 Tech Stack
+- **Languages:** Python, C++, C, Embedded C, HTML, CSS, Scala
+- **Frameworks:** Flask, TensorFlow, PyTorch, GNU, Pyspark, Pandas
+- **Tools:** Docker, Git, VS Code, Grafana, Prometheus, Kubernetes
+- **Database Management:** MongoDB, PostgreSQL, MySQL
+- **Testing Tools:** JMeter, Postman  
+- **Interests:** AI, Electronics, Machine Learning, Coding  
 
----
+### 📈 GitHub Stats
+![Athar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical)
 
-## 👨‍💻 About Me
-- 🔭 **Currently working on**: NLP projects and AI research
-- 🌱 **Learning**: MLOps, Advanced Python, and AI-based frameworks
-- 🎯 **Goal**: Master AI-powered innovative solutions for real-world challenges
-- 📫 **Contact Me**: [Email](mailto:athar.sayed24@gmail.com) | [LinkedIn](https://linkedin.com/in/atharsayed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical)
 
----
+### 🏆 Top Repositories
+- 🚀 [**IronCode**](https://github.com/AtharSayed/IronCode): A Python-based project for building ML solutions.
+- 📡 [**StarkCommunications**](https://github.com/AtharSayed/StarkCommunications): Flask-based real-time chat app.
+- ⚡ [**HyperFlux**](https://github.com/AtharSayed/HyperFlux): ML models optimized for GPU acceleration.
 
-## 🛠️ Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### **Frameworks & Libraries**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Athar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtharSayed&theme=radical)
-
----
-
-## 🚀 Top Projects
-
-- [**SmartCalc**](https://github.com/SmartCalc) - A Python-based project for building ML solutions.
-- [**SensorSimulations**](https://github.com/SensorSimulations) - Simulation-based IoT projects.
-- [**EyeTrack**](https://github.com/EyeTrack) - A tool for optimized GPU calculations in computer vision.
-
----
-
-## 🌟 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharsayed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athar.sayed24@gmail.com)
+### 🌐 Connect with Me
+- 📧 [![Email](https://img.shields.io/badge/Email-sayedathar242%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sayedathar242@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athar-sayed-8a6693202)
