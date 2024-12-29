@@ -1,6 +1,6 @@
+# 🌟 Welcome to My GitHub Profile 🌟
 ### 🚀 Profile Views
 ![Profile Views](https://profile-counter.glitch.me/AtharSayed/count.svg)
-# 🌟 Welcome to My GitHub Profile 🌟
 # 👋 Hello, I'm Athar Sayed!
 
 ### 👨‍💻 About Me
