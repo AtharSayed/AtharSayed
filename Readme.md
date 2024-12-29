@@ -10,16 +10,15 @@
 - 🌍 Based in **Mumbai, India**
 
 ### 🔧 Tech Stack
-- **Languages:** Python, C++, C, Embedded C, HTML, CSS, scala
+- **Languages:** Python, C++, C, Embedded C, HTML, CSS, Scala
 - **Frameworks:** Flask, TensorFlow, PyTorch, GNU, Pyspark, Pandas
-- **Tools:** Docker, Git, VS Code, Grafhana, Prometheus, Kubernetes
+- **Tools:** Docker, Git, VS Code, Grafana, Prometheus, Kubernetes
 - **Database Management:** MongoDB, PostgreSQL, MySQL
 - **Testing Tools:** JMeter, Postman  
 - **Interests:** AI, Electronics, Machine Learning, Coding  
 
 ### 📈 GitHub Stats
 ![Athar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical)
 
@@ -29,5 +28,5 @@
 - ⚡ [**HyperFlux**](https://github.com/AtharSayed/HyperFlux): ML models optimized for GPU acceleration.
 
 ### 🌐 Connect with Me
-- 📧 **Email:** [sayedathar242@gmail.com](mailto:sayedathar242@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athar-sayed-8a6693202)
+- 📧 [![Email](https://img.shields.io/badge/Email-sayedathar242%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sayedathar242@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athar-sayed-8a6693202)
