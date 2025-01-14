@@ -23,9 +23,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical)
 ### 🏆 Top Repositories
-- 🚀 [**IronCode**](https://github.com/AtharSayed/IronCode): A Python-based project for building ML solutions.
+- 🚀 [**StressPred**](https://github.com/AtharSayed/StressPred): Stress Prediction project using Machine Learning.
 - 📡 [**StarkCommunications**](https://github.com/AtharSayed/StarkCommunications): Flask-based real-time chat app.
-- ⚡ [**HyperFlux**](https://github.com/AtharSayed/HyperFlux): ML models optimized for GPU acceleration.
+- ⚡ [**ElectroForge**](https://github.com/AtharSayed/ElectroForge): Electronics design and simulation tool.
 
 ### 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athar-sayed-8a6693202)
