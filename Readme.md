@@ -23,9 +23,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical)
 ### 🏆 Top Repositories
-- 🚀 [**StressPred**](https://github.com/AtharSayed/StressPred): Stress Prediction project using Machine Learning.
+- 🚀 [**DistriData**](https://github.com/AtharSayed/DistriData): data workflows with PySpark and related tools for Data Engineering.
 - 📡 [**StarkCommunications**](https://github.com/AtharSayed/StarkCommunications): Flask-based real-time chat app.
-- ⚡ [**ElectroForge**](https://github.com/AtharSayed/ElectroForge): Electronics design and simulation tool.
+- ⚡ [**DPL**](https://github.com/AtharSayed/DPL): Its a  collection of deep learning models, experiments, and implementations for various domains.
 
 ### 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athar-sayed-8a6693202)
