@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical)
 ### 🏆 Top Repositories
-- 🚀 [**DistriData**](https://github.com/AtharSayed/DistriData): data workflows with PySpark and related tools for Data Engineering.
+- 🚀 [**DistriData**](https://github.com/AtharSayed/DistriData): Data workflows with PySpark and related tools for Data Engineering.
 - 📡 [**StarkCommunications**](https://github.com/AtharSayed/StarkCommunications): Flask-based real-time chat app.
 - ⚡ [**DPL**](https://github.com/AtharSayed/DPL): Its a  collection of deep learning models, experiments, and implementations for various domains.
 
