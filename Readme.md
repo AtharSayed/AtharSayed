@@ -11,10 +11,10 @@
 ### 🔧 Tech Stack
 - **Languages:** Python, C++, C, Embedded C, HTML, CSS, Scala
 - **Frameworks:** Flask, TensorFlow, PyTorch, GNU, Pyspark, Pandas, Streamlit, OpenAI
-- **Tools:** Docker, Git, VS Code, Grafana, Prometheus, Kubernetes
+- **Tools:** Docker, Git, VS Code, Grafana, Prometheus, Kubernetes, GCP 
 - **Database Management:** MongoDB, PostgreSQL, MySQL
 - **Testing Tools:** JMeter, Postman  
-- **Interests:** AI, Electronics, Machine Learning, NLP
+- **Interests:** AI, Electronics, Machine Learning, NLP, LLM's
 
 ### 📈 GitHub Stats
 ![Athar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical)
