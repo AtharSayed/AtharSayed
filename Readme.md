@@ -1,8 +1,5 @@
-![Header](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile!)
-
 ### 🚀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AtharSayed&color=blue&style=flat-square)
-
+![Profile Views](https://profile-counter.glitch.me/AtharSayed/count.svg)
 # 👋 Hello, I'm Athar Sayed!
 
 ### 👨‍💻 About Me
@@ -33,8 +30,6 @@
 
 ### 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athar-sayed-8a6693202)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharSayed)
 
 ### ☕ Support Me
@@ -43,16 +38,14 @@
 ### 💬 Quote of the Day
 > "The only way to do great work is to love what you do." – Steve Jobs
 
-### 📌 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AtharSayed/DistriData/pull/1) in [AtharSayed/DistriData](https://github.com/AtharSayed/DistriData)
-2. 🚀 Pushed 3 commits to [AtharSayed/StarkCommunications](https://github.com/AtharSayed/StarkCommunications)
-3. 💬 Commented on issue [#2](https://github.com/AtharSayed/DPL/issues/2) in [AtharSayed/DPL](https://github.com/AtharSayed/DPL)
-<!--END_SECTION:activity-->
 
 ### 📊 Skills
 - **Python:** ![Python](https://img.shields.io/badge/Python-90%25-blue)
-- **C++:** ![C++](https://img.shields.io/badge/C%2B%2B-80%25-orange)
+- **C++:** ![C++](https://img.shields.io/badge/C%2B%2B-70%25-orange)
 - **Machine Learning:** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-85%25-red)
+- **Data Engineering:** ![Data Engineering](https://img.shields.io/badge/Data_Engineering-80%25-9cf)
+- **Docker & Kubernetes:** ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-326CE5)
+- Deep Learning:** ![Deep Learning](https://img.shields.io/badge/Deep_Learning-80%25-9cf)
+- **Large Language Models (LLMs):** ![LLMs](https://img.shields.io/badge/LLMs-75%25-yellow)
+- **Natural Language Processing (NLP):** ![NLP](https://img.shields.io/badge/NLP-80%25-brightgreen)
 
-![Snake animation](https://github.com/AtharSayed/AtharSayed/blob/output/github-contribution-grid-snake.svg)
