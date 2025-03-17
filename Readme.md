@@ -28,11 +28,6 @@
 - 📡 [**StarkCommunications**](https://github.com/AtharSayed/StarkCommunications): Flask-based real-time chat app.
 - ⚡ [**DPL**](https://github.com/AtharSayed/DPL): Its a  collection of deep learning models, experiments, and implementations for various domains.
 
-### 🌐 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athar-sayed-8a6693202)
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharSayed)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atharsayed)
-
 
 ### 💬 Quote of the Day
 > "The only way to do great work is to love what you do." – Steve Jobs
@@ -47,4 +42,11 @@
 - Deep Learning:** ![Deep Learning](https://img.shields.io/badge/Deep_Learning-80%25-9cf)
 - **Large Language Models (LLMs):** ![LLMs](https://img.shields.io/badge/LLMs-75%25-yellow)
 - **Natural Language Processing (NLP):** ![NLP](https://img.shields.io/badge/NLP-80%25-brightgreen)
+
+  
+### 🌐 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athar-sayed-8a6693202)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharSayed)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-0057B8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atharsayed)
+
 
