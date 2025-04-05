@@ -37,7 +37,7 @@
 - **Python:** ![Python](https://img.shields.io/badge/Python-90%25-blue)
 - **C++:** ![C++](https://img.shields.io/badge/C%2B%2B-70%25-orange)
 - **Machine Learning:** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-85%25-red)
-- **Data Engineering:** ![Data Engineering](https://img.shields.io/badge/Data_Engineering-80%25-9cf)
+- **Data Engineering:** ![Data Engineering](https://img.shields.io/badge/Data_Engineering-70%25-9cf)
 - **Docker & Kubernetes:** ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-326CE5)
 - Deep Learning:** ![Deep Learning](https://img.shields.io/badge/Deep_Learning-80%25-9cf)
 - **Large Language Models (LLMs):** ![LLMs](https://img.shields.io/badge/LLMs-75%25-yellow)
