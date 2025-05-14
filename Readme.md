@@ -14,6 +14,7 @@
 - **Tools:** Docker, Git, VS Code, Grafana, Prometheus, Kubernetes, GCP 
 - **Database Management:** MongoDB, PostgreSQL, MySQL
 - **Testing Tools:** JMeter, Postman  
+- **Operating Systems:** Ubuntu, Windows, Raspberry Pi OS, FreeRTOS, Debian, CentOS, MacOS
 - **Interests:** AI, Electronics, Machine Learning, NLP, LLMs
 
 ### 📈 GitHub Stats
