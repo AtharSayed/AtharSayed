@@ -26,7 +26,7 @@
 
 ### 🏆 Top Repositories
 - 🚀 [**IronCode**](https://github.com/AtharSayed/IronCode): Iron Core is a Python-based project repo designed for building AI and machine learning solutions.
-- 📡 [**CodeLLLM**](https://github.com/AtharSayed/CodeLLM): This repository contains various implementations and experiments based on Large Language Models (LLMs) and Natural Language Processing (NLP) techniques
+- 📡 [**CodeLLM**](https://github.com/AtharSayed/CodeLLM): This repository contains various implementations and experiments based on Large Language Models (LLMs) and Natural Language Processing (NLP) techniques
 - ⚡ [**DPL**](https://github.com/AtharSayed/DPL): Its a  collection of deep learning models, experiments, and implementations for various domains.
 
 
