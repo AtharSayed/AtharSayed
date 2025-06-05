@@ -8,6 +8,16 @@
 - 🌟 Committed to leveraging technology for innovative solutions
 - 🌍 Based in **Mumbai, India**
 
+---
+
+### 💻 Coding Profiles
+Showcasing my problem-solving skills on these platforms:
+
+* [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/sayedathar242/)
+* [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sayedathar242)
+
+---
+
 ### 🔧 Tech Stack
 - **Languages:** Python, C++, C, Embedded C, HTML, CSS, Scala
 - **Frameworks:** Flask, TensorFlow, PyTorch, GNU, Pyspark, Pandas, Streamlit, OpenAI
@@ -17,6 +27,8 @@
 - **Operating Systems:** Ubuntu, Windows, Raspberry Pi OS, FreeRTOS, Debian, CentOS, MacOS
 - **Interests:** AI, Electronics, Machine Learning, NLP, LLMs
 
+---
+
 ### 📈 GitHub Stats
 ![Athar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical)
 
@@ -24,15 +36,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical)
 
+---
+
 ### 🏆 Top Repositories
 - 🚀 [**IronCode**](https://github.com/AtharSayed/IronCode): Iron Core is a Python-based project repo designed for building AI and machine learning solutions.
 - 📡 [**CodeLLM**](https://github.com/AtharSayed/CodeLLM): This repository contains various implementations and experiments based on Large Language Models (LLMs) and Natural Language Processing (NLP) techniques
 - ⚡ [**DPL**](https://github.com/AtharSayed/DPL): Its a  collection of deep learning models, experiments, and implementations for various domains.
 
+---
 
 ### 💬 Quote of the Day
 > "The only way to do great work is to love what you do." – Steve Jobs
 
+---
 
 ### 📊 Skills
 - **Python:** ![Python](https://img.shields.io/badge/Python-80%25-blue)
@@ -44,10 +60,9 @@
 - **Large Language Models (LLMs):** ![LLMs](https://img.shields.io/badge/LLMs-75%25-yellow)
 - **Natural Language Processing (NLP):** ![NLP](https://img.shields.io/badge/NLP-80%25-brightgreen)
 
-  
+---
+  
 ### 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athar-sayed-8a6693202)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharSayed)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-0057B8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atharsayed)
-
-
