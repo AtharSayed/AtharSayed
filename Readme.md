@@ -15,6 +15,7 @@ Showcasing my problem-solving skills on these platforms:
 
 * [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/sayedathar242/)
 * [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sayedathar242)
+* [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/athar_stark)
 
 ---
 
