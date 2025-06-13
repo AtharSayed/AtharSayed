@@ -33,7 +33,7 @@ Showcasing my problem-solving skills on:
 ## 🔧 Tech Stack
 
 **Languages:**  
-`Python` `C++` `C` `Embedded C` `HTML` `CSS` `Scala`  
+`Python` `C++` `C`   
 
 **Frameworks & Libraries:**  
 `Flask` `TensorFlow` `PyTorch` `GNU` `Pyspark` `Pandas` `Streamlit` `OpenAI`
