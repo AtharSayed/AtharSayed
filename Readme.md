@@ -88,7 +88,7 @@ Showcasing my problem-solving skills on:
 | ![Python](https://img.shields.io/badge/Python-80%25-blue) | **Advanced** |
 | ![C++](https://img.shields.io/badge/C%2B%2B-70%25-orange) | **Proficient** |
 | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-80%25-red) | **Advanced** |
-| ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-326CE5) | **DevOps Ready** |
+| ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-326CE5) | **Proficient** |
 | ![Deep Learning](https://img.shields.io/badge/Deep_Learning-80%25-9cf) | **Advanced** |
 | ![LLMs](https://img.shields.io/badge/LLMs-75%25-yellow) | **Proficient** |
 | ![NLP](https://img.shields.io/badge/NLP-80%25-brightgreen) | **Advanced** |
