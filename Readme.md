@@ -108,7 +108,4 @@ Showcasing my problem-solving skills on:
   <a href="https://www.linkedin.com/in/athar-sayed-8a6693202">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/atharsayed">
-    <img src="https://img.shields.io/badge/Kaggle-0057B8?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
 </p>
