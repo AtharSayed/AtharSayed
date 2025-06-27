@@ -17,10 +17,10 @@
 Showcasing my problem-solving skills on:
 
 <p>
-  <a href="https://leetcode.com/u/sayedathar242/">
+  <a href="https://leetcode.com/u/Athar_Stark/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
-  <a href="https://leetcode.com/u/Athar_Stark/">
+  <a href="https://www.hackerrank.com/profile/sayedathar242">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
