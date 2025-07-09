@@ -1,7 +1,3 @@
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://profile-counter.glitch.me/AtharSayed/count.svg" alt="Profile Views" />
-</p>
 
 # 👋 Hello, I'm Athar Sayed!
 
