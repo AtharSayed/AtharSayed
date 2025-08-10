@@ -94,9 +94,6 @@ Showcasing my problem-solving skills on:
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharSayed&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
   </a>
-    <a href="https://www.youtube.com/@sayzzathar">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -107,4 +104,7 @@ Showcasing my problem-solving skills on:
   <a href="https://www.linkedin.com/in/athar-sayed-8a6693202">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+      <a href="https://www.youtube.com/@sayzzathar">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
