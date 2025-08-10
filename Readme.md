@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hello, I'm Athar Sayed!
 
 ## 👨‍💻 About Me
@@ -80,4 +79,3 @@ Showcasing my problem-solving skills on:
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-```
