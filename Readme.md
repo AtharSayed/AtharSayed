@@ -34,6 +34,9 @@ Showcasing my problem-solving skills on:
 **Tools & Platforms:**  
 `Docker` `Git` `VS Code` `Grafana` `Prometheus` `Kubernetes` `GCP`
 
+**LLM & Agentic AI Frameworks :**
+`LangChain` `RAG` `Model Context Protocol (MCP)` `ChatBots`  
+
 **Databases:**  
 `MongoDB` `PostgreSQL` `MySQL`
 
