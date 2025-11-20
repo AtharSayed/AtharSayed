@@ -29,7 +29,7 @@ Showcasing my problem-solving skills on:
 `Python` `C++` `C`   
 
 **Frameworks & Libraries:**  
-`Flask` `TensorFlow` `PyTorch` `GNU` `Pyspark` `Pandas` `Streamlit` `OpenAI`
+`Flask` `TensorFlow` `PyTorch` `GNU` `Pyspark` `Pandas` `Streamlit` `OpenAI` `Fast-API`
 
 **Tools & Platforms:**  
 `Docker` `Git` `VS Code` `Grafana` `Prometheus` `Kubernetes` `GCP`
