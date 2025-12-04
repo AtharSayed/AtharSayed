@@ -32,7 +32,7 @@ Showcasing my problem-solving skills on:
 `Flask` `TensorFlow` `PyTorch` `GNU` `Pyspark` `Pandas` `Streamlit` `OpenAI` `Fast-API`
 
 **Tools & Platforms:**  
-`Docker` `Git` `VS Code` `Grafana` `Prometheus` `Kubernetes` `GCP`
+`Docker` `Git` `Version Control` `VS Code` `Grafana` `Prometheus` `Kubernetes` `GCP` `OCI`
 
 **LLM & Agentic AI Frameworks:**
 `LangChain` `RAG` `Model Context Protocol (MCP)` `ChatBots`  
