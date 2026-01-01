@@ -43,9 +43,6 @@ Showcasing my problem-solving skills on:
 **Testing Tools:**  
 `JMeter` `Postman`
 
-**Operating Systems:**  
-`Ubuntu` `Windows` `Raspberry Pi OS` `FreeRTOS` `Debian` `CentOS` `macOS`
-
 **Areas of Interest:**  
 `AI` `Electronics` `Machine Learning` `NLP` `LLMs`
 
