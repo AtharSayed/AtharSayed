@@ -12,7 +12,7 @@
 Explore in-depth projects, experience, publications (IEEE), blogs, and live demos!
 
 ---
-## 💻 Competitive Programming
+## Competitive Programming
 
 <p align="left">
   <a href="https://leetcode.com/u/Athar_Stark/">
@@ -68,7 +68,7 @@ Explore in-depth projects, experience, publications (IEEE), blogs, and live demo
 </p>
 
 ---
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Stars | Description | Tech Highlights | Live Demo / Link |
 |---------|-------|-------------|-----------------|--------------------|
@@ -77,7 +77,7 @@ Explore in-depth projects, experience, publications (IEEE), blogs, and live demo
 | [**Vigilix**](https://github.com/AtharSayed/Vigilix) | ![Stars](https://img.shields.io/github/stars/AtharSayed/Vigilix?style=social) | Real-time network intrusion detection with streaming, ML anomaly detection (XGBoost: 87.95% accuracy), and live monitoring | Kafka, Isolation Forest/XGBoost, Prometheus + Grafana dashboards, Docker CI/CD | Portfolio demo |
 
 ---
-## 🏆 Quick Highlights
+## Quick Highlights
 - **Publications**: IEEE ICRTEC 2023 – IoT-based crowd detection (92% accuracy)
 - **Experience**: Software Engineer @ FortytwoLabs Pune 
 - **Certifications**: Google Cloud LLM, Oracle AI Foundations, Advanced Python/ML/DSA
