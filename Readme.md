@@ -1,110 +1,102 @@
+# 👋 Hi there, I'm Athar Sayed!
 
-# 👋 Hello, I'm Athar Sayed!
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Coding GIF">
 
-## 👨‍💻 About Me
-- 🎓 **MTech in AI '26** @ MPSTME  
-- 💼 Software Engineer passionate about **Electronics & AI**  
-- 🌟 Committed to leveraging technology for innovative solutions  
-- 📍 Based in **Mumbai, India**
+**MTech in Artificial Intelligence '26** @ MPSTME, Mumbai  
+Software Engineer | AI & Electronics Enthusiast | Building innovative solutions at the intersection of AI and hardware  
+
+📍 Mumbai, India  
+💼 Passionate about **Machine Learning, NLP, LLMs, and Electronics**  
 
 ---
-
-## 💻 Coding Profiles
-Showcasing my problem-solving skills on:
+## 💻 Competitive Programming Profiles
 
 <p>
   <a href="https://leetcode.com/u/Athar_Stark/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#FFA116" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/profile/sayedathar242">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
 ---
+## 🔧 Tech Stack & Skills
 
-## 🔧 Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-**Languages:**  
-`Python` `C++` `C`   
+### AI/ML Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-**Frameworks & Libraries:**  
-`Flask` `TensorFlow` `PyTorch` `GNU` `Pyspark` `Pandas` `Streamlit` `OpenAI` `Fast-API`
+### Backend & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Tools & Platforms:**  
-`Docker` `Git` `Version Control` `VS Code` `Grafana` `Prometheus` `Kubernetes` `GCP` `OCI`
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-**LLM & Agentic AI Frameworks:**
-`LangChain` `RAG` `Model Context Protocol (MCP)` `ChatBots`  
-
-**Databases:**  
-`MongoDB` `PostgreSQL` `MySQL`
-
-**Testing Tools:**  
-`JMeter` `Postman`
-
-**Areas of Interest:**  
-`AI` `Electronics` `Machine Learning` `NLP` `LLMs`
+### Areas of Expertise
+- **Advanced**: Python, Machine Learning, Deep Learning, NLP
+- **Proficient**: C++, LLMs, Docker, Kubernetes, RAG
 
 ---
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharSayed&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical&hide_border=true" alt="Athar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharSayed&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharSayed&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
+## 🚀 Featured Repositories
 
-## 🏆 Top Repositories
-
-- 🚀 [**IronCode**](https://github.com/AtharSayed/IronCode): Python-based AI/ML project hub.  
-- 📡 [**CodeLLM**](https://github.com/AtharSayed/CodeLLM): Experiments with LLMs and NLP.  
-- ⚡ [**DPL**](https://github.com/AtharSayed/DPL): Deep learning models & implementations.
-
----
-
-## 💬 Quote of the Day
-
-> "The only way to do great work is to love what you do." – *Steve Jobs*
+| Repository | Description |
+|------------|-------------|
+| [**IronCode**](https://github.com/AtharSayed/IronCode) | Python-based hub for AI/ML projects and experiments |
+| [**CodeLLM**](https://github.com/AtharSayed/CodeLLM) | Exploring Large Language Models, NLP techniques, and agentic AI |
+| [**DPL**](https://github.com/AtharSayed/DPL) | Deep learning models, implementations, and research prototypes |
 
 ---
+## 💬 Inspirational Quote
 
-## 📊 Skills Overview
-
-| Skill                          | Proficiency |
-|-------------------------------|-------------|
-| ![Python](https://img.shields.io/badge/Python-80%25-blue) | **Advanced** |
-| ![C++](https://img.shields.io/badge/C%2B%2B-70%25-orange) | **Proficient** |
-| ![Machine Learning](https://img.shields.io/badge/Machine_Learning-80%25-red) | **Advanced** |
-| ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-326CE5) | **Proficient** |
-| ![Deep Learning](https://img.shields.io/badge/Deep_Learning-80%25-9cf) | **Advanced** |
-| ![LLMs](https://img.shields.io/badge/LLMs-75%25-yellow) | **Proficient** |
-| ![NLP](https://img.shields.io/badge/NLP-80%25-brightgreen) | **Advanced** |
+> "The best way to predict the future is to invent it." – *Alan Kay*
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharSayed&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me
+## 🌐 Let's Connect!
 
 <p>
   <a href="https://www.linkedin.com/in/athar-sayed-8a6693202">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@sayzzathar">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
+
+Thanks for visiting my profile! 🚀
