@@ -6,7 +6,9 @@
 Software Engineer | AI & Electronics Enthusiast | Building innovative solutions at the intersection of AI and hardware  
 
 📍 Mumbai, India  
-💼 Passionate about **Machine Learning, NLP, LLMs, and Electronics**  
+💼 Passionate about **Machine Learning, NLP, LLMs, Agentic AI, and Systems Security**  
+
+🌐 **Live Portfolio**: [athar-sayed-portfolio.vercel.app](https://athar-sayed-portfolio.vercel.app/) – Explore my detailed projects, experience, publications, and more!
 
 ---
 ## 💻 Competitive Programming Profiles
@@ -51,8 +53,8 @@ Software Engineer | AI & Electronics Enthusiast | Building innovative solutions 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### Areas of Expertise
-- **Advanced**: Python, Machine Learning, Deep Learning, NLP
-- **Proficient**: C++, LLMs, Docker, Kubernetes, RAG
+- **Advanced**: Python, Machine Learning, Deep Learning, NLP, RAG Systems
+- **Proficient**: C++, LLMs, Docker, Kubernetes, Anomaly Detection
 
 ---
 ## 📊 GitHub Stats
@@ -78,9 +80,9 @@ Software Engineer | AI & Electronics Enthusiast | Building innovative solutions 
 
 | Repository | Description |
 |------------|-------------|
-| [**IronCode**](https://github.com/AtharSayed/IronCode) | Python-based hub for AI/ML projects and experiments |
-| [**CodeLLM**](https://github.com/AtharSayed/CodeLLM) | Exploring Large Language Models, NLP techniques, and agentic AI |
-| [**DPL**](https://github.com/AtharSayed/DPL) | Deep learning models, implementations, and research prototypes |
+| [**IntelliTube**](https://github.com/AtharSayed/Intellitube) | Privacy-first AI platform for YouTube video transcription (Faster-Whisper), summarization, RAG-based Q&A, and comment sentiment analysis using local LLMs – with Streamlit dashboard and multi-format exports |
+| [**Der-Kurator**](https://github.com/AtharSayed/Der-Kurator) | Hallucination-resistant RAG document assistant for traceable, grounded question-answering on verified sources (PDF/DOCX/etc.), featuring strict faithfulness checks and Streamlit UI |
+| [**Vigilix**](https://github.com/AtharSayed/Vigilix) | Real-time network intrusion detection system with Kafka streaming, ML anomaly detection (Isolation Forest, XGBoost), and live Prometheus + Grafana dashboards |
 
 ---
 ## 💬 Inspirational Quote
@@ -96,6 +98,9 @@ Software Engineer | AI & Electronics Enthusiast | Building innovative solutions 
   </a>
   <a href="https://www.youtube.com/@sayzzathar">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://athar-sayed-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
