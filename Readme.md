@@ -79,7 +79,7 @@ Explore in-depth projects, experience, publications (IEEE), blogs, and live demo
 ---
 ## 🏆 Quick Highlights
 - **Publications**: IEEE ICRTEC 2023 – IoT-based crowd detection (92% accuracy)
-- **Experience**: Software Engineer @ FortytwoLabs (C++ crypto libraries, CI/CD, reduced support tickets by 40%)
+- **Experience**: Software Engineer @ FortytwoLabs Pune 
 - **Certifications**: Google Cloud LLM, Oracle AI Foundations, Advanced Python/ML/DSA
 
 ---
@@ -102,6 +102,5 @@ Explore in-depth projects, experience, publications (IEEE), blogs, and live demo
   </a>
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AtharSayed.AtharSayed)
 
 Thanks for stopping by – let's build something amazing together! ✨
