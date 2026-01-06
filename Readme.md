@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Coding GIF">
 
 **MTech in Artificial Intelligence '26** @ MPSTME, Mumbai  
-Software Engineer | AI & Electronics Enthusiast | Building innovative solutions at the intersection of AI and hardware  
+Software Engineer | AI & Electronics Enthusiast | Building innovative AI solutions
 
 📍 Mumbai, India  
 💼 Passionate about **Machine Learning, NLP, LLMs, Agentic AI, and Systems Security**  
