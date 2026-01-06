@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Athar Sayed! 🚀
+# 👋 Hi, I'm Athar Sayed! 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" alt="Coding animation">
 
