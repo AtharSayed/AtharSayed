@@ -3,13 +3,12 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" alt="Coding animation">
 
 **MTech Artificial Intelligence '26** @ NMIMS MPSTME, Mumbai (CGPA: 9.10/10)  
-**Software Engineer** | AI/ML Enthusiast | Bridging Electronics, Security & Cutting-Edge AI  
+**Ex-Software Engineer** | AI/ML Engineer |   
 
 📍 Mumbai, India  
 🔬 Passionate about **RAG Systems, Agentic AI, NLP, LLMs, Anomaly Detection & Privacy-First AI**  
 
 🌐 **Live Portfolio** → [athar-sayed-portfolio.vercel.app](https://athar-sayed-portfolio.vercel.app/)  
-Explore in-depth projects, experience, publications (IEEE), blogs, and live demos!
 
 ---
 ## Competitive Programming
