@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" alt="Coding animation">
 
 **MTech Artificial Intelligence '26** @ NMIMS MPSTME, Mumbai (CGPA: 9.10/10)  
-**Ex-Software Engineer** | AI/ML Engineer |   
+**Ex-Software Engineer at Fortytwolabs Private Limited ** | AI/ML Engineer |   
 
 📍 Mumbai, India  
 🔬 Passionate about **RAG Systems, Agentic AI, NLP, LLMs, Anomaly Detection & Privacy-First AI**  
