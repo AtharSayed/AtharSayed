@@ -1,160 +1,126 @@
-# 🚀 Athar Sayed
+# Athar Sayed
 
-### AI Engineer \| Agentic AI Architect \| RAG Systems Specialist \| MTech AI '26
-
-`<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" alt="Coding animation">`{=html}
-
-🎓 **MTech Artificial Intelligence (2026)**\
-NMIMS MPSTME, Mumbai --- **CGPA: 9.10 / 10**
-
-💼 **Ex-Software Engineer @ FortytwoLabs Pvt. Ltd.**\
-🔬 Building **Production-Ready AI Systems** --- RAG, Multi-Agent
-Architectures, Privacy-First LLMs\
-📍 Mumbai, India
-
-🌐 **Portfolio:**\
-👉 https://athar-sayed-portfolio.vercel.app/
+### AI Engineer \| Retrieval-Augmented Generation (RAG) \| Agentic AI Systems \| MTech AI '26
 
 ------------------------------------------------------------------------
 
-# 🧠 About Me
+## Professional Summary
 
-I design and build **intelligent, scalable AI systems** that move beyond
-notebooks into production.
+AI Engineer specializing in production-grade intelligent systems with a
+strong focus on: - Retrieval-Augmented Generation (RAG) - Multi-Agent
+Architectures - Privacy-First LLM Deployments - Real-Time Streaming AI
+Systems - Anomaly Detection & Monitoring Systems
 
-My work focuses on:
+Currently pursuing **MTech in Artificial Intelligence (2026)** at NMIMS
+MPSTME, Mumbai (CGPA: 9.10/10).\
+Former Software Engineer at FortytwoLabs Pvt. Ltd.
 
--   🔹 Retrieval-Augmented Generation (RAG)
--   🔹 Agentic AI & Multi-Agent Architectures
--   🔹 Privacy-First Local LLM Deployments
--   🔹 Real-Time Streaming AI Systems
--   🔹 Anomaly Detection & Intelligent Monitoring
--   🔹 NLP & Document Intelligence
-
-I believe AI systems should be:
-
-> **Grounded. Scalable. Secure. Production-ready.**
-
-------------------------------------------------------------------------
-
-# 🏆 Competitive Programming
-
--   LeetCode: https://leetcode.com/u/Athar_Stark/
--   HackerRank: https://www.hackerrank.com/profile/sayedathar242
-
-Strong foundation in: - Data Structures & Algorithms\
-- System Design Thinking\
-- Problem Solving
-
-------------------------------------------------------------------------
-
-# 🛠 Tech Stack
-
-## 💻 Languages
-
-Python • C++ • C
-
-## 🤖 AI / ML / LLM Stack
-
-PyTorch • TensorFlow • HuggingFace • LangChain • FAISS\
-SentenceTransformers • OpenAI APIs • Mistral (Local LLMs)
-
-## ⚡ Agentic & RAG Infrastructure
-
-Vector Databases • Multi-Agent Systems • Tool Calling\
-Embedding Pipelines • Hallucination Mitigation\
-Grounded Response Architectures
-
-## 📊 Data & Streaming
-
-Apache Kafka • Spark • XGBoost • Isolation Forest\
-Real-Time Processing Pipelines
-
-## 🐳 DevOps & Production
-
-Docker • Kubernetes • CI/CD\
-Prometheus • Grafana • Monitoring Systems
-
-## 🗄 Databases & Cloud
-
-MongoDB • PostgreSQL • Google Cloud Platform
-
-------------------------------------------------------------------------
-
-# 🔥 Featured AI Projects
-
-## 🧠 IntelliTube
-
-Privacy-First YouTube Intelligence Platform\
-https://github.com/AtharSayed/Intellitube
-
--   95% accurate transcription (Faster-Whisper)\
--   Grammar correction\
--   Context-aware summarization\
--   RAG-powered Q&A\
--   Comment sentiment + intent analysis
-
-------------------------------------------------------------------------
-
-## 📚 Der-Kurator
-
-Hallucination-Resistant RAG Assistant\
-https://github.com/AtharSayed/Der-Kurator
-
--   97% grounded responses\
--   99% faithfulness score\
--   Strict anti-hallucination safeguards
-
-------------------------------------------------------------------------
-
-## 🛡 Vigilix
-
-Real-Time Intrusion Detection & Anomaly Monitoring\
-https://github.com/AtharSayed/Vigilix
-
--   XGBoost (87.95% accuracy)\
--   Real-time Kafka streaming\
--   Live dashboards (Prometheus + Grafana)\
--   Dockerized production pipeline
-
-------------------------------------------------------------------------
-
-# 📚 Research & Publications
-
-📄 **IEEE ICRTEC 2023**\
-IoT-Based Crowd Detection System --- 92% Accuracy
-
-------------------------------------------------------------------------
-
-# 🎓 Certifications
-
--   Google Cloud -- Generative AI & LLMs\
--   Oracle -- AI Foundations\
--   Advanced Python & Machine Learning\
--   Data Structures & Algorithms
-
-------------------------------------------------------------------------
-
-# 💡 Engineering Philosophy
-
-I don't just build models.\
-I build **AI systems that survive production.**
-
--   Secure by design\
--   Scalable by architecture\
--   Measured by real metrics\
--   Built for real-world deployment
-
-------------------------------------------------------------------------
-
-# 🌍 Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/athar-sayed-8a6693202\
-YouTube: https://www.youtube.com/@sayzzathar\
 Portfolio: https://athar-sayed-portfolio.vercel.app/
 
 ------------------------------------------------------------------------
 
-# ✨ Personal Motto
+## Core Technical Expertise
 
-> "The best way to predict the future is to invent it." --- Alan Kay
+### Programming
+
+Python, C++, C
+
+### AI / Machine Learning
+
+PyTorch, TensorFlow, HuggingFace, SentenceTransformers\
+XGBoost, Isolation Forest\
+Model Evaluation & Optimization
+
+### LLM & RAG Systems
+
+LangChain, FAISS, Vector Databases\
+Embedding Pipelines\
+Grounded Response Architectures\
+Hallucination Mitigation Strategies\
+Tool Calling & Multi-Agent Orchestration
+
+### Data & Streaming
+
+Apache Kafka\
+Real-Time Processing Pipelines\
+Spark (Streaming & Batch)
+
+### DevOps & Deployment
+
+Docker, Kubernetes\
+CI/CD Pipelines\
+Prometheus, Grafana\
+Production Monitoring Systems
+
+### Databases & Cloud
+
+MongoDB, PostgreSQL\
+Google Cloud Platform
+
+------------------------------------------------------------------------
+
+## Selected Projects
+
+### IntelliTube
+
+Privacy-first YouTube intelligence platform with: - 95% accurate
+transcription (Faster-Whisper) - Context-aware summarization - RAG-based
+question answering - Comment sentiment & intent analysis - Local LLM
+(Mistral) deployment
+
+Repository: https://github.com/AtharSayed/Intellitube
+
+------------------------------------------------------------------------
+
+### Der-Kurator
+
+Hallucination-resistant RAG assistant designed for high factual
+reliability: - 97% grounded responses - 99% faithfulness score - Strict
+response validation layers - Multi-format document ingestion
+
+Repository: https://github.com/AtharSayed/Der-Kurator
+
+------------------------------------------------------------------------
+
+### Vigilix
+
+Real-time intrusion detection and anomaly monitoring system: -
+XGBoost-based detection (87.95% accuracy) - Kafka streaming pipeline -
+Live monitoring dashboards (Prometheus + Grafana) - Dockerized
+deployment
+
+Repository: https://github.com/AtharSayed/Vigilix
+
+------------------------------------------------------------------------
+
+## Research & Publication
+
+IEEE ICRTEC 2023\
+IoT-Based Crowd Detection System (92% Accuracy)\
+Focus: Edge AI, Real-Time Monitoring, Intelligent Crowd Management
+
+------------------------------------------------------------------------
+
+## Certifications
+
+-   Google Cloud -- Generative AI & LLMs
+-   Oracle -- AI Foundations
+-   Advanced Python & Machine Learning
+-   Data Structures & Algorithms
+
+------------------------------------------------------------------------
+
+## Engineering Philosophy
+
+I design AI systems for production environments --- secure, scalable,
+measurable, and deployment-ready.\
+The focus is not only on model performance, but on system reliability,
+grounding, monitoring, and long-term maintainability.
+
+------------------------------------------------------------------------
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/athar-sayed-8a6693202\
+Portfolio: https://athar-sayed-portfolio.vercel.app/\
+GitHub: https://github.com/AtharSayed
