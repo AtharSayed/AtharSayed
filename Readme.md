@@ -2,9 +2,10 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" alt="Coding animation">
 
-**MTech Artificial Intelligence '26** @ NMIMS MPSTME, Mumbai (CGPA: 9.10/10)  
-  Gen AI Intern @ Diebold Nixdorf (Feb 2026 – Present)
-  Ex-Software Engineer @ FortytwoLabs Pvt. Ltd.
+###  Generative AI Intern | MTech AI '26 @ NMIMS (CGPA: 9.10/10)
+
+**Gen AI Intern @ Diebold Nixdorf**  
+**Former Software Engineer @ FortytwoLabs**
 
 📍 Mumbai, India  
 🔬 Passionate about **RAG Systems, Agentic AI, NLP, LLMs, Anomaly Detection & Privacy-First AI**  
