@@ -1,19 +1,139 @@
-# 👋 Hi, I'm Athar Sayed! 
+<div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" alt="Coding animation">
+# Hi, I'm Athar Sayed 👋
 
-###  Generative AI Intern | MTech AI '26 @ NMIMS (CGPA: 9.10/10)
+### Generative AI Intern · MTech AI '26 @ NMIMS · CGPA 9.10/10
 
-**Gen AI Intern @ Diebold Nixdorf**  
-**Former Software Engineer @ FortytwoLabs**
+**Building privacy-first, agentic AI systems — one RAG pipeline at a time.**
 
-📍 Mumbai, India  
-🔬 Passionate about **RAG Systems, Agentic AI, NLP, LLMs, Anomaly Detection & Privacy-First AI**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://athar-sayed-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athar-sayed-8a6693202)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sayzzathar)
 
-🌐 **Live Portfolio** → [athar-sayed-portfolio.vercel.app](https://athar-sayed-portfolio.vercel.app/)  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding animation">
+
+</div>
 
 ---
-## Competitive Programming
+
+## 🧑‍💻 About Me
+
+- 🔬 Currently exploring **RAG Systems, Agentic AI, NLP, LLMs, Anomaly Detection & Privacy-First AI**
+- 💼 Gen AI Intern @ **Diebold Nixdorf** | Formerly Software Engineer @ **FortytwoLabs**
+- 🎓 Pursuing MTech in AI at **NMIMS** (CGPA: 9.10/10)
+- 📝 Published: *IEEE ICRTEC 2023* — IoT-based crowd detection (92% accuracy)
+- 📍 Based in Mumbai, India
+- ⚡ Fun fact: I like turning "it kind of works" prototypes into systems that don't hallucinate
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+**AI / ML & Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [🎥 IntelliTube](https://github.com/AtharSayed/Intellitube)
+Privacy-first YouTube analysis platform with local transcription, summarization & RAG Q&A.
+
+- Faster-Whisper transcription (**95% accuracy**)
+- Grammar correction + summarization
+- RAG-based Q&A over video content
+- Comment sentiment & intent analysis
+
+`Mistral (local LLM)` `FAISS` `Streamlit/Gradio` `MongoDB`
+
+![Stars](https://img.shields.io/github/stars/AtharSayed/Intellitube?style=social)
+
+</td>
+<td width="33%" valign="top">
+
+### [📖 Der-Kurator](https://github.com/AtharSayed/Der-Kurator)
+Hallucination-resistant RAG assistant for grounded document Q&A (e.g., technical specs).
+
+- **97%** grounded responses
+- **99%** faithfulness score
+- Multi-format document ingestion
+- Strict anti-hallucination safeguards
+
+`FAISS` `SentenceTransformers` `Streamlit`
+
+![Stars](https://img.shields.io/github/stars/AtharSayed/Der-Kurator?style=social)
+
+</td>
+<td width="33%" valign="top">
+
+### [🛡️ Vigilix](https://github.com/AtharSayed/Vigilix)
+Real-time network intrusion detection with streaming data & ML-based anomaly detection.
+
+- **XGBoost: 87.95%** detection accuracy
+- Isolation Forest anomaly detection
+- Live monitoring dashboards
+- Full Docker CI/CD pipeline
+
+`Kafka` `XGBoost` `Prometheus + Grafana` `Docker`
+
+![Stars](https://img.shields.io/github/stars/AtharSayed/Vigilix?style=social)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharSayed&theme=radical&hide_border=true" alt="Streak Stats" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharSayed&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%"/>
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
 
 <p align="left">
   <a href="https://leetcode.com/u/Athar_Stark/">
@@ -25,83 +145,19 @@
 </p>
 
 ---
-## 🔧 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+## 🎓 Certifications
 
-### AI/ML & Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FDEE21?style=flat&logo=huggingface&logoColor=black)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+- Google Cloud — Large Language Models
+- Oracle — AI Foundations
+- Advanced Python, Machine Learning & DSA
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharSayed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharSayed&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharSayed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### 💬 "The best way to predict the future is to invent it." — *Alan Kay*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharSayed&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+**Thanks for stopping by — let's build something amazing together! ✨**
 
----
-##  Featured Projects
-
-| Project | Stars | Description | Tech Highlights | Live Demo / Link |
-|---------|-------|-------------|-----------------|--------------------|
-| [**IntelliTube**](https://github.com/AtharSayed/Intellitube) | ![Stars](https://img.shields.io/github/stars/AtharSayed/Intellitube?style=social) | Privacy-first YouTube analysis platform: Faster-Whisper transcription (95% accuracy), grammar correction, summarization, RAG Q&A, comment sentiment & intent analysis | Local LLMs (Mistral), FAISS, Streamlit/Gradio dashboard, MongoDB auth | Portfolio demo |
-| [**Der-Kurator**](https://github.com/AtharSayed/Der-Kurator) | ![Stars](https://img.shields.io/github/stars/AtharSayed/Der-Kurator?style=social) | Hallucination-resistant RAG assistant for grounded Q&A on documents (e.g., Porsche 911 specs) – 97% grounded, 99% faithfulness | Multi-format ingestion, FAISS + SentenceTransformers, strict safeguards, Streamlit UI | Portfolio demo |
-| [**Vigilix**](https://github.com/AtharSayed/Vigilix) | ![Stars](https://img.shields.io/github/stars/AtharSayed/Vigilix?style=social) | Real-time network intrusion detection with streaming, ML anomaly detection (XGBoost: 87.95% accuracy), and live monitoring | Kafka, Isolation Forest/XGBoost, Prometheus + Grafana dashboards, Docker CI/CD | Portfolio demo |
-
----
-## Quick Highlights
-- **Publications**: IEEE ICRTEC 2023 – IoT-based crowd detection (92% accuracy)
-- **Experience**: Software Engineer @ FortytwoLabs Pune 
-- **Certifications**: Google Cloud LLM, Oracle AI Foundations, Advanced Python/ML/DSA
-
----
-## 💬 Quote
-
-> "The best way to predict the future is to invent it." – *Alan Kay*
-
----
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/athar-sayed-8a6693202">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@sayzzathar">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://athar-sayed-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-
-Thanks for stopping by – let's build something amazing together! ✨
+</div>
