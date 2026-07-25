@@ -2,7 +2,7 @@
 
 # Hi, I'm Athar Sayed 👋
 
-### Generative AI Intern · MTech AI '26 @ NMIMS · CGPA 9.10/10
+### Generative AI Intern · MTech AI '26 @ NMIMS · CGPA 9.08/10
 
 **Building privacy-first, agentic AI systems — one RAG pipeline at a time.**
 
